@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolCombination2", "BoolCombination2.csproj", "{9AAE6F92-3D8F-47B1-9E07-C58289EA4BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAE6F92-3D8F-47B1-9E07-C58289EA4BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAE6F92-3D8F-47B1-9E07-C58289EA4BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAE6F92-3D8F-47B1-9E07-C58289EA4BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAE6F92-3D8F-47B1-9E07-C58289EA4BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B679D00-AF4A-42B7-8F2A-731DA29593B2}
+	EndGlobalSection
+EndGlobal

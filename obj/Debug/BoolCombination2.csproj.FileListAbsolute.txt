@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\NTders5\BoolCombination2\obj\Debug\BoolCombination2.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NTders5\BoolCombination2\obj\Debug\BoolCombination2.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTders5\BoolCombination2\bin\Debug\BoolCombination2.exe.config
+C:\Users\Section2\source\repos\NTders5\BoolCombination2\bin\Debug\BoolCombination2.exe
+C:\Users\Section2\source\repos\NTders5\BoolCombination2\bin\Debug\BoolCombination2.pdb
+C:\Users\Section2\source\repos\NTders5\BoolCombination2\obj\Debug\BoolCombination2.exe
+C:\Users\Section2\source\repos\NTders5\BoolCombination2\obj\Debug\BoolCombination2.pdb
